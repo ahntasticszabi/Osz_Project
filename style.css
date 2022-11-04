@@ -1,0 +1,71 @@
+body {
+  background-image: linear-gradient(60deg, rgb(145, 67, 186) , rgb(98, 231, 255));
+}
+
+header {
+  border: 1px solid white;
+}
+
+header h1 {
+  padding-top: 1px;
+  font-size: 4vw;
+  letter-spacing: 10px;
+  text-shadow: 5px 0 5px #000;
+  -moz-text-shadow: 5px 0 5px #000;
+  -webkit-text-shadow: 5px 0 5px #000;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  background: transparent;
+}
+
+.cim {
+  text-align: center;
+}
+
+.navbar {
+  background: transparent;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: red !important;
+}
+
+p {
+  text-align: justify;
+}
+
+.orszag {
+  background: transparent;
+  color: white;
+}
+
+.cikkep {
+  float: left;
+  width: 55%;
+  margin: 20px;
+  border: 2px solid white;
+}
+
+div h3 {
+  text-align: center;
+}
+
+li {
+  text-align: justify;
+}
+
+footer {
+  height: 50px;
+}
+
+footer p {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
